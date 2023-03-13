@@ -1,0 +1,6 @@
+build:
+  uri: https://github.com/jmfinelli/numberguess_vf2f.git
+  ref: main
+deploy:
+  replicas: 1
+
