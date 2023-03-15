@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/luck3y/numberguess_vf2f.git
+  ref: test2
+deploy:
+  replicas: 1
